@@ -1,0 +1,6 @@
+[submodule "shell/.config/shell/zsh/plugins/zsh-syntax-highlighting"]
+	path = shell/.config/shell/zsh/plugins/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
+[submodule "nvim/.config/nvim"]
+	path = nvim/.config/nvim
+	url = git@github.com:C-Larsen-Code/nvim-config.git
